@@ -30,6 +30,7 @@ googleAdsense = ""
 # diagram = true
 # socialShare = false # disable social network sharing
 # searchBar = false # disable search-bar
+# settingsButton = false # disable settings button
 
 # poweredBy = false # Whether to show powered by.
 

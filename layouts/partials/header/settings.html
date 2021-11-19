@@ -1,3 +1,4 @@
+{{- if (default true .Site.Params.settingsButton) -}}
 <button class="navbar-settings" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSettings"
   aria-controls="offcanvasSettings" aria-label="Toggle settings">
   <i class="fas fa-ellipsis-v"></i>
@@ -14,3 +15,4 @@
     {{- partial "header/settings/index" . -}}
   </div>
 </div>
+{{- end -}}
