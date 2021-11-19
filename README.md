@@ -267,6 +267,7 @@ As the example site shown, the configuration are separated into multiple files, 
 | `breadcrumb` | Boolean | `true` | Whether to enable breadcrumb.
 | `readingTime` | Boolean | `true` | Whether to display the reading time.
 | `postDate` | Boolean | `true` | Whether to display the post date in the post meta section.
+| `postNavEnabled` | Boolean | `true` | Whether to display the navigation at the end of the post.
 | **Creative Commons License**
 | `creativeCommons` | Object | - |
 | `creativeCommons.by` | Boolean | `true` | Credit must be given to you, the creator.
